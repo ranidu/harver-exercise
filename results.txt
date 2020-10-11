@@ -1,0 +1,714 @@
+Task 01 | Print numbers from 1 to 100 to the console. 
+1: stretch 
+2: flow 
+3: strong 
+4: fact 
+5: information 
+6: president 
+7: master 
+8: newspaper 
+9: party 
+10: powerful 
+11: bush 
+12: practical 
+13: chamber 
+14: silent 
+15: how 
+16: turn 
+17: dress 
+18: lost 
+19: joy 
+20: effort 
+21: nose 
+22: statement 
+23: some 
+24: syllable 
+25: progress 
+26: who 
+27: moment 
+28: arm 
+29: some 
+30: go 
+31: may 
+32: upon 
+33: faster 
+34: greater 
+35: similar 
+36: supper 
+37: evidence 
+38: layers 
+39: throughout 
+40: printed 
+41: bank 
+42: doing 
+43: uncle 
+44: wish 
+45: volume 
+46: farther 
+47: curve 
+48: poetry 
+49: method 
+50: count 
+51: label 
+52: best 
+53: apart 
+54: come 
+55: setting 
+56: closely 
+57: gun 
+58: myself 
+59: familiar 
+60: blind 
+61: barn 
+62: stood 
+63: freedom 
+64: tribe 
+65: blind 
+66: inside 
+67: vast 
+68: out 
+69: lost 
+70: seat 
+71: tower 
+72: form 
+73: left 
+74: indicate 
+75: living 
+76: union 
+77: one 
+78: track 
+79: pair 
+80: important 
+81: passage 
+82: flame 
+83: skin 
+84: differ 
+85: badly 
+86: combine 
+87: begun 
+88: for 
+89: say 
+90: point 
+91: simplest 
+92: something 
+93: gate 
+94: tears 
+95: has 
+96: member 
+97: development 
+98: trip 
+99: caught 
+100: graph 
+
+Task 02 | Fizz Buzz program. 
+1: driver 
+2: accurate 
+3: Fizz 
+4: as 
+5: Buzz 
+6: Fizz 
+7: driving 
+8: spin 
+9: Fizz 
+10: Buzz 
+11: about 
+12: Fizz 
+13: traffic 
+14: fair 
+15: FizzBuzz 
+16: below 
+17: sell 
+18: Fizz 
+19: spider 
+20: Buzz 
+21: Fizz 
+22: rocket 
+23: tonight 
+24: Fizz 
+25: Buzz 
+26: mouse 
+27: Fizz 
+28: you 
+29: harbor 
+30: FizzBuzz 
+31: save 
+32: cheese 
+33: Fizz 
+34: thrown 
+35: Buzz 
+36: Fizz 
+37: political 
+38: bottom 
+39: Fizz 
+40: Buzz 
+41: drew 
+42: Fizz 
+43: select 
+44: pick 
+45: FizzBuzz 
+46: discuss 
+47: meet 
+48: Fizz 
+49: ill 
+50: Buzz 
+51: Fizz 
+52: spirit 
+53: buried 
+54: Fizz 
+55: Buzz 
+56: stove 
+57: Fizz 
+58: mass 
+59: struggle 
+60: FizzBuzz 
+61: person 
+62: sudden 
+63: Fizz 
+64: castle 
+65: Buzz 
+66: Fizz 
+67: couple 
+68: compass 
+69: Fizz 
+70: Buzz 
+71: lion 
+72: Fizz 
+73: variety 
+74: canal 
+75: FizzBuzz 
+76: opportunity 
+77: percent 
+78: Fizz 
+79: than 
+80: Buzz 
+81: Fizz 
+82: skin 
+83: ball 
+84: Fizz 
+85: Buzz 
+86: bright 
+87: Fizz 
+88: attempt 
+89: aboard 
+90: FizzBuzz 
+91: leather 
+92: twenty 
+93: Fizz 
+94: hang 
+95: Buzz 
+96: Fizz 
+97: occur 
+98: except 
+99: Fizz 
+100: Buzz 
+
+Task 03 - 01 | Print numbers from 1 to 100 to the console - asynchronous. 
+1: bright 
+2: manufacturing 
+3: arrangement 
+4: principal 
+5: electric 
+6: official 
+7: enough 
+8: mine 
+9: warn 
+10: parallel 
+11: colony 
+12: southern 
+13: dinner 
+14: dish 
+15: detail 
+16: development 
+17: wait 
+18: diagram 
+19: once 
+20: living 
+21: rule 
+22: similar 
+23: statement 
+24: promised 
+25: second 
+26: material 
+27: mad 
+28: voyage 
+29: handle 
+30: something 
+31: map 
+32: wealth 
+33: worse 
+34: damage 
+35: opposite 
+36: seldom 
+37: tales 
+38: outline 
+39: solar 
+40: football 
+41: floor 
+42: sharp 
+43: matter 
+44: along 
+45: aloud 
+46: smallest 
+47: create 
+48: point 
+49: have 
+50: ride 
+51: plant 
+52: action 
+53: practical 
+54: size 
+55: shade 
+56: due 
+57: respect 
+58: enemy 
+59: even 
+60: north 
+61: process 
+62: volume 
+63: kind 
+64: lift 
+65: observe 
+66: mistake 
+67: grabbed 
+68: skin 
+69: reason 
+70: since 
+71: welcome 
+72: ago 
+73: wave 
+74: especially 
+75: complete 
+76: mark 
+77: kitchen 
+78: feature 
+79: shoulder 
+80: wooden 
+81: task 
+82: claws 
+83: hurt 
+84: news 
+85: gulf 
+86: merely 
+87: reason 
+88: border 
+89: bus 
+90: either 
+91: purpose 
+92: mysterious 
+93: kept 
+94: page 
+95: swung 
+96: than 
+97: ourselves 
+98: recognize 
+99: trace 
+100: alike 
+
+Task 03 - 02 | Fizz Buzz program - asynchronous. 
+1: hit 
+2: held 
+3: Fizz 
+4: fix 
+5: Buzz 
+6: Fizz 
+7: apart 
+8: soft 
+9: Fizz 
+10: Buzz 
+11: hat 
+12: Fizz 
+13: wait 
+14: garage 
+15: FizzBuzz 
+16: colony 
+17: broken 
+18: Fizz 
+19: slabs 
+20: Buzz 
+21: Fizz 
+22: barn 
+23: found 
+24: Fizz 
+25: Buzz 
+26: source 
+27: Fizz 
+28: unit 
+29: wave 
+30: FizzBuzz 
+31: ordinary 
+32: stranger 
+33: Fizz 
+34: draw 
+35: Buzz 
+36: Fizz 
+37: mud 
+38: direct 
+39: Fizz 
+40: Buzz 
+41: locate 
+42: Fizz 
+43: known 
+44: tank 
+45: FizzBuzz 
+46: rope 
+47: push 
+48: Fizz 
+49: century 
+50: Buzz 
+51: Fizz 
+52: cast 
+53: trouble 
+54: Fizz 
+55: Buzz 
+56: string 
+57: Fizz 
+58: scared 
+59: blank 
+60: FizzBuzz 
+61: agree 
+62: radio 
+63: Fizz 
+64: faster 
+65: Buzz 
+66: Fizz 
+67: ready 
+68: hat 
+69: Fizz 
+70: Buzz 
+71: struck 
+72: Fizz 
+73: hall 
+74: golden 
+75: FizzBuzz 
+76: yet 
+77: again 
+78: Fizz 
+79: member 
+80: Buzz 
+81: Fizz 
+82: wood 
+83: later 
+84: Fizz 
+85: Buzz 
+86: tall 
+87: Fizz 
+88: telephone 
+89: ants 
+90: FizzBuzz 
+91: obtain 
+92: moment 
+93: Fizz 
+94: give 
+95: Buzz 
+96: Fizz 
+97: actually 
+98: wheel 
+99: Fizz 
+100: Buzz 
+
+Task 04 - 01 | Print numbers from 1 to 100 to the console - withErrors. 
+1: heading 
+2: toward 
+3: curious 
+4: broken 
+5: by 
+6: although 
+7: spring 
+8: slept 
+9: minute 
+10: herd 
+11: hat 
+12: friendly 
+13: fact 
+14: control 
+15: triangle 
+16: however 
+17: air 
+18: cover 
+19: pay 
+20: page 
+21: grandmother 
+22: writing 
+23: dull 
+24: nothing 
+25: gave 
+26: same 
+27: land 
+28: fuel 
+29: before 
+30: It shouldn't break anything! 
+31: act 
+32: western 
+33: It shouldn't break anything! 
+34: instance 
+35: official 
+36: conversation 
+37: It shouldn't break anything! 
+38: too 
+39: review 
+40: feathers 
+41: slope 
+42: growth 
+43: It shouldn't break anything! 
+44: add 
+45: arrangement 
+46: image 
+47: should 
+48: wet 
+49: softly 
+50: biggest 
+51: temperature 
+52: sleep 
+53: It shouldn't break anything! 
+54: connected 
+55: engineer 
+56: state 
+57: well 
+58: little 
+59: bend 
+60: discuss 
+61: ate 
+62: sport 
+63: lift 
+64: cattle 
+65: age 
+66: themselves 
+67: largest 
+68: plan 
+69: nearer 
+70: somewhere 
+71: chicken 
+72: It shouldn't break anything! 
+73: facing 
+74: port 
+75: camp 
+76: railroad 
+77: fire 
+78: average 
+79: snow 
+80: solid 
+81: particular 
+82: value 
+83: choose 
+84: wall 
+85: simplest 
+86: answer 
+87: read 
+88: helpful 
+89: It shouldn't break anything! 
+90: cool 
+91: each 
+92: bush 
+93: add 
+94: poetry 
+95: It shouldn't break anything! 
+96: gain 
+97: It shouldn't break anything! 
+98: angle 
+99: develop 
+100: valuable 
+
+Task 04 - 02 | Fizz Buzz program - withErrors. 
+1: 1: rule 
+2: 2: shine 
+3: Fizz 
+4: 4: week 
+5: Buzz 
+6: Fizz 
+7: 7: It shouldn't break anything! 
+8: 8: It shouldn't break anything! 
+9: Fizz 
+10: Buzz 
+11: 11: not 
+12: Fizz 
+13: 13: discuss 
+14: 14: began 
+15: FizzBuzz 
+16: 16: palace 
+17: 17: certainly 
+18: Fizz 
+19: 19: captured 
+20: Buzz 
+21: Fizz 
+22: 22: tent 
+23: 23: stomach 
+24: Fizz 
+25: Buzz 
+26: 26: It shouldn't break anything! 
+27: Fizz 
+28: 28: circus 
+29: 29: tower 
+30: FizzBuzz 
+31: 31: slowly 
+32: 32: It shouldn't break anything! 
+33: Fizz 
+34: 34: successful 
+35: Buzz 
+36: Fizz 
+37: 37: gold 
+38: 38: chance 
+39: Fizz 
+40: Buzz 
+41: 41: sick 
+42: Fizz 
+43: 43: It shouldn't break anything! 
+44: 44: It shouldn't break anything! 
+45: FizzBuzz 
+46: 46: blue 
+47: 47: draw 
+48: Fizz 
+49: 49: It shouldn't break anything! 
+50: Buzz 
+51: Fizz 
+52: 52: boat 
+53: 53: essential 
+54: Fizz 
+55: Buzz 
+56: 56: uncle 
+57: Fizz 
+58: 58: local 
+59: 59: It shouldn't break anything! 
+60: FizzBuzz 
+61: 61: struck 
+62: 62: score 
+63: Fizz 
+64: 64: think 
+65: Buzz 
+66: Fizz 
+67: 67: star 
+68: 68: stretch 
+69: Fizz 
+70: Buzz 
+71: 71: lady 
+72: Fizz 
+73: 73: swept 
+74: 74: It shouldn't break anything! 
+75: FizzBuzz 
+76: 76: magnet 
+77: 77: standard 
+78: Fizz 
+79: 79: composed 
+80: Buzz 
+81: Fizz 
+82: 82: discuss 
+83: 83: native 
+84: Fizz 
+85: Buzz 
+86: 86: screen 
+87: Fizz 
+88: 88: function 
+89: 89: waste 
+90: FizzBuzz 
+91: 91: special 
+92: 92: real 
+93: Fizz 
+94: 94: wagon 
+95: Buzz 
+96: Fizz 
+97: 97: men 
+98: 98: greatly 
+99: Fizz 
+100: Buzz 
+
+Task - with slow mode on. 
+1: canal 
+2: biggest 
+3: telephone 
+4: eaten 
+5: himself 
+6: music 
+7: touch 
+8: meet 
+9: few 
+10: evidence 
+11: jump 
+12: twelve 
+13: manufacturing 
+14: come 
+15: whispered 
+16: space 
+17: attempt 
+18: plural 
+19: safety 
+20: element 
+21: usual 
+22: nature 
+23: which 
+24: officer 
+25: gave 
+26: could 
+27: per 
+28: son 
+29: clean 
+30: agree 
+31: writing 
+32: learn 
+33: without 
+34: rain 
+35: wait 
+36: why 
+37: driving 
+38: angry 
+39: lift 
+40: younger 
+41: turn 
+42: tie 
+43: nest 
+44: speech 
+45: spend 
+46: nor 
+47: acres 
+48: parent 
+49: represent 
+50: saw 
+51: itself 
+52: bet 
+53: supply 
+54: are 
+55: product 
+56: shoot 
+57: mill 
+58: alive 
+59: since 
+60: charge 
+61: closely 
+62: noted 
+63: shoot 
+64: frozen 
+65: seen 
+66: golden 
+67: visit 
+68: trouble 
+69: fox 
+70: guide 
+71: inside 
+72: machine 
+73: collect 
+74: engineer 
+75: pain 
+76: might 
+77: immediately 
+78: tax 
+79: underline 
+80: evening 
+81: first 
+82: best 
+83: ranch 
+84: negative 
+85: bean 
+86: brick 
+87: slipped 
+88: experience 
+89: lady 
+90: standard 
+91: independent 
+92: floor 
+93: iron 
+94: escape 
+95: either 
+96: cowboy 
+97: average 
+98: than 
+99: muscle 
+100: darkness 
+
